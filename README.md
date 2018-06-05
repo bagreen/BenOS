@@ -1,4 +1,8 @@
 # BenOS
+
+A try at making an operating system following a tutorial
+
+## Running
 To run it:
 
 In linux, install bochs and nasm
